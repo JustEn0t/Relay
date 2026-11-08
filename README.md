@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
-  <img src="assets/cover-light.svg" width="100%" alt="RELAY — Twitch to Telegram stream announcements for Windows by JustEn0t">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.png">
+  <img src="assets/cover-light.png" width="100%" alt="RELAY — Twitch to Telegram stream announcements for Windows by JustEn0t">
 </picture>
 
 # RELAY
