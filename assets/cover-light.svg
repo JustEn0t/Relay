@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
-<title id="title">RELAY</title><desc id="desc">Twitch to Telegram stream announcements for Windows. C#, WPF. By JustEn0t.</desc>
-<rect x="1" y="1" width="1198" height="238" rx="18" fill="#fff5f6" stroke="#e5bbc5"/><rect x="1" y="24" width="5" height="192" fill="#d62032"/>
-<g font-family="monospace"><text x="42" y="44" font-size="13" letter-spacing="3" fill="#d62032">FEATURED PROJECT / WINDOWS</text><text x="38" y="117" font-size="57" font-weight="700" fill="#351721">RELAY</text><text x="42" y="157" font-size="18" fill="#795362">TWITCH LIVE / TELEGRAM ALERTS / YOUR PC</text><text x="42" y="207" font-size="13" letter-spacing="2" fill="#795362">C# · WPF · TELEGRAM BOT API <tspan fill="#d62032">/</tspan> BY JUSTEN0T</text></g>
-<g transform="translate(960 40)"><rect x=".5" y=".5" width="159" height="159" rx="36" fill="none" stroke="#d62032" stroke-opacity=".25"/><path d="M28 73L132 29L103 132L77 96L56 119L57 87Z" fill="#d62032"/><path d="M57 87L132 29L77 96L103 132L72 90Z" fill="#fff5f6" fill-opacity=".5"/><path d="M57 87L56 119L72 90L132 29Z" fill="#351721" fill-opacity=".5"/></g></svg>
+<title id="title">RELAY</title><desc id="desc">Twitch to Telegram stream announcements for Windows. Compact paper plane app icon. By JustEn0t.</desc>
+<rect x="1" y="1" width="1198" height="238" rx="18" fill="#f7f3ff" stroke="#d8c7ec"/><rect x="1" y="24" width="5" height="192" fill="#7848be"/>
+<g font-family="monospace"><text x="42" y="44" font-size="13" letter-spacing="3" fill="#7848be">FEATURED PROJECT / WINDOWS</text><text x="38" y="117" font-size="57" font-weight="700" fill="#2b1b40">RELAY</text><text x="42" y="157" font-size="18" fill="#75618b">TWITCH LIVE / TELEGRAM ALERTS / YOUR PC</text><text x="42" y="207" font-size="13" letter-spacing="2" fill="#75618b">C# · WPF · TELEGRAM BOT API <tspan fill="#7848be">/</tspan> BY JUSTEN0T</text></g>
+<g transform="translate(960 40)"><rect x=".5" y=".5" width="159" height="159" rx="36" fill="none" stroke="#7848be" stroke-opacity=".25"/><g transform="translate(8 8) scale(.9)">
+  <path d="M31 69L131 28Q136 26 134 32L109 127Q108 132 104 128L77 99L60 114Q55 118 55 111L55 85L31 77Q24 73 31 69Z" fill="#7848be"/>
+  <path d="M55 85L129 33L77 99L61 110L64 88Z" fill="#f7f3ff"/>
+  <path d="M77 99L129 33L103 113Z" fill="#2b1b40" fill-opacity=".22"/>
+  <path d="M43 108C23 118 18 134 34 141C42 145 52 144 61 141" fill="none" stroke="#7848be" stroke-opacity=".65" stroke-width="5" stroke-linecap="round"/>
+  <path d="M35 29L38 36L45 39L38 42L35 49L32 42L25 39L32 36Z" fill="#7848be" fill-opacity=".65"/>
+</g></g></svg>
